@@ -1,4 +1,4 @@
 Processwire_FieldType_Templates
 ===============================
 
-ProcessWire Module that creates an ASM Select field to select templates
+This ProcessWire module produces an ASM Select fieldtype that allows you to select one or more existing templates.
